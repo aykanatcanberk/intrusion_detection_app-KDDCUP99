@@ -1,0 +1,2 @@
+outlier_method,scaling_method,balance_method,train_samples,test_samples,n_features
+zscore,standard,smote,128986,16608,41

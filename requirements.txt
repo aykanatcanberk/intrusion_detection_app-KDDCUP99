@@ -1,8 +1,21 @@
+# Core Libraries
 numpy
 pandas
 scikit-learn
+
+# Deep Learning
 tensorflow
-streamlit
+
+# Imbalanced Learning
+imbalanced-learn
+
+# Visualization
 matplotlib
 seaborn
 plotly
+
+# Streamlit
+streamlit
+
+# Additional
+scipy
